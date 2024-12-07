@@ -9,5 +9,11 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-docker.io/omicsclass/samtools:latest
-
+docker.io/omicsclass/pan-gene-family:latest
+docker.io/omicsclass/pan-geonme:latest
+docker.io/omicsclass/single-cell:latest
+docker.io/omicsclass/genome-assembly:latest
+docker.io/omicsclass/genome-annotation:latest
+docker.io/omicsclass/genome-comparison:latest
+docker.io/omicsclass/r-server:latest
+docker.io/omicsclass/organelle-assembly:latest
