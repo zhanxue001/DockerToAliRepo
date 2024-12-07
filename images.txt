@@ -9,5 +9,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-redis:7.4.1
+omicsclass/pan-gene-family:v1.0
 
