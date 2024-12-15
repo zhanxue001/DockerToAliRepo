@@ -9,4 +9,4 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-docker.io/omicsclass/pan-genome:latest
+docker.io/omicsclass/gene-family:latest
